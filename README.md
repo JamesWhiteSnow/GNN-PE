@@ -2,7 +2,9 @@
 
 In this project, we open-source the source code of our GNN-PE approach, including both offline and online processes (i.e., offline.tar.gz and online.tar.gz).
 
-Next, we will introduce how to reproduce the results of our experiments over the Yeast dataset.
+The real-world datasets used in our paper are stored in the Datasets directory. As the synthetic datasets are large, we do not upload them. You can easily generate them by following the instruction in our paper.
+
+Due to space limitations, we will introduce how to reproduce the results of our experiments over the Yeast dataset.
 
 ## Offline Process
 
