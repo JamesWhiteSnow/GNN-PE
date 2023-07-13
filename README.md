@@ -7,10 +7,24 @@ The real-world and default synthetic datasets used in our paper are stored in th
 Due to space limitations, we will introduce how to reproduce the results of our experiments over the Yeast dataset.
 
 ## Offline Process
+1. Download the offline.tar.gz, execute the following commands to decompress the source code and go to the root directory of the file.
+
+```
+tar -xzvf offline.tar.gz
+cd offline
+```
+
+2. Under the root directory of the offline directory, execute the following conda commands to configure the python environment.
+
+```
+
+```
+
+
 
 
 ## Online Process
-1. Download the online.tar.gz, execute the following commands to decompress the source code and go to the root directory of the file
+1. Download the online.tar.gz, execute the following commands to decompress the source code and go to the root directory of the file.
 
 ```
 tar -xzvf online.tar.gz
