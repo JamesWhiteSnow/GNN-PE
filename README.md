@@ -4,7 +4,7 @@ In this project, we open-source the source code of our GNN-PE approach, includin
 
 The real-world and default synthetic datasets used in our paper are stored in the datasets directory. As some synthetic datasets are large, we do not upload them. You can easily generate them by following the instruction in our paper.
 
-On github, we will introduce how to reproduce the results of our experiments over the Yeast dataset.
+On Git Hub, we will introduce how to reproduce the results of our experiments over the Yeast dataset.
 
 Note that since we have prepared all the necessary data, you can run the online process directly without running offline process first.
 
