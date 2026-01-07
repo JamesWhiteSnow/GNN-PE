@@ -8,8 +8,7 @@ Welcome to cite our paper!
 
 ```
 @inproceedings{ye2024efficient,
-  title={Efficient Exact Subgraph Matching via GNN-based Path
-Dominance Embedding},
+  title={Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding},
   author={Ye, Yutong and Lian, Xiang and Chen, Mingsong},
   booktitle={Proceedings of the International Conference on Very Large Data Bases (PVLDB)},
   pages={1628--1641},
