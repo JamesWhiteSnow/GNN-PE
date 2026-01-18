@@ -76,7 +76,7 @@ cmake ..
 make
 ```
 
-3. Return to the root directory of GNN-PE execute the following command to run a quick start example.
+3. Return to the root directory of GNN-PE, and execute the following command to run a quick start example.
 
 ```
 ./build/src/main -f ../Test/ -d ../Test/data_graph.graph -m offline
