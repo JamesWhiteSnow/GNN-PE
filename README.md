@@ -34,7 +34,7 @@ To run a subgraph matching query, follow these three steps:
 
 1. Data set Preparation: Prepare data set by Python
 2. Offline Pre-computation: Generate vertex/path embeddings and construct index
-3.Online Query Process: Traverse index and refine the candidates
+3. Online Query Process: Traverse index and refine the candidates
 
 ## Getting Started
 
