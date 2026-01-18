@@ -53,7 +53,7 @@ conda activate <new_environment_name>
 
 ### GNN-PE
 
-1. Trun into the directory of GNN-PE, execute the following command to prepare the data set.
+1. Turn into the directory of GNN-PE, execute the following command to prepare the data set.
 
 ```
 python gnnpe.py --f ../Test/ --d ../Test/data_graph.gpickle.gz
